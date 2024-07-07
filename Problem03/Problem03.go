@@ -16,6 +16,7 @@ func lengthOfLongestSubstring(s string) int {
 
 	for right, char := range s {
 		if index, found := myMap[char]; found && index >= left {
+			fmt.Println("index: ", index, "left: ", left)
 			left = index + 1
 		}
 		myMap[char] = right
