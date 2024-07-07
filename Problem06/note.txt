@@ -1,0 +1,61 @@
+PAYPALISHIRING - 2 + 0
+PYAIHRN
+APLSIIG
+0, 2, 4, 6, 8, 10, 12 - tang 2 = 2 + 0
+1, 3, 5, 7, 9, 11, 13 - tang 2
+
+PAYPALISHIRING - 3
+P A H N
+APLSIIG
+Y I R
+0,  4,  8,   12 - tang 4 = 3 + 1
+1,3,5,7,9,11,13 - tang 2
+2,  6,  10   14 - tang 4
+
+
+PAYPALISHIRING - 4
+P  I  N
+A LS IG
+YA HR
+P  I
+0,   6,    12 - tang 6 = 4 + 2
+1, 5,7, 11,13 - tang 4 + 2
+2,4, 8,10  14 - tang 2 + 4
+3,   9     15 - tang 6
+
+
+PAYPALISHIRING - 5
+P   H
+A  SI
+Y I R
+PL  IG
+A   N
+0,    8       16 - tang 8 = 5 + 3
+1,  7,9,   15,17 - tang 6 + 2
+2, 6, 10  14  18 - tang 4
+3,5,  11,13   19 - tang 2 + 6
+4,    12      20 - tang 8
+
+
+PAYPALISHIRING - 6
+P     R
+A    II
+Y   H N
+P  S  G
+A I
+L 
+0,       10        20 - Tang 10 6 + 4
+1,     9,11     19,21 - tang 8 + 2
+2,   8,  12    18  22 - tang 6 + 4
+3, 7,    13   17   23 - tang 4 + 6
+4,6      14,16     24 - tang 2 + 8
+5        15        25 - tang 10
+
+PAYPALISHIRING - 7 + 5
+1      13  12 2^
+2    1214  10 + 2
+3   11 15  8 + 4
+4  10  16  6 + 6
+5 9    17  4 + 8
+68     18  2 + 10
+7      19  12
